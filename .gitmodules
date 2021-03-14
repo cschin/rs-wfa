@@ -1,6 +1,6 @@
 [submodule "WFA"]
 	path = WFA
-	url = git@github.com:cschin/WFA.git
+	url = https://github.com/cschin/WFA.git
   shallow = true
   branch = 5749b864e3bf2221cf788c673e8dfd4f901d41b9
   ignore = dirty
